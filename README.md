@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on front end 🔭<br>👯 I’m looking to collaborate on programming and devlopment 👯<br>🌱 I'm immersing myself in the world of JavaScript and <br>     React, actively expanding my knowledge 🌱<br>⚡ I thoroughly enjoy honing my skills in graphic design as a hobby ⚡<br><br><br><br><br>
+<br>🔭 I’m currently working on front end 🔭<br>👯 I’m looking to collaborate on programming and devlopment 👯<br>🌱 I'm immersing myself in the world of JavaScript and React, actively expanding my knowledge 🌱<br>⚡ I thoroughly enjoy honing my skills in graphic design as a hobby ⚡<br><br><br><br><br>
 
 
 ## 🌐 Socials:
