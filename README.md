@@ -31,3 +31,5 @@
 [![](https://visitcount.itsvg.in/api?id=BogojuNikhil&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
