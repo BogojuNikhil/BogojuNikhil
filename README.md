@@ -1,10 +1,10 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=00F7F7&width=435&lines=Crafting+Themes+with+Code+💡;Integrating+Cosmos+into+Crypto+🌌;Frontend+Dev+%7C+Storytelling+Driven+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=0068B5&width=435&lines=Crafting+Themes+with+Code+💡;Integrating+Cosmos+into+Crypto+🌌;Frontend+Dev+%7C+Storytelling+Driven+💫" alt="Typing SVG" />
 </div>
 
 🛠️ I’m a thematic web developer blending **frontend finesse** with **creative storytelling**  
-🌌 Currently working on **TrackNCoin: Cosmos Edition** for **AstroHack 2025**  
+🌌 Currently working on **CatchMyScreen** platfor for **Movie_Ticket-Booking**  
 📡 Passionate about integrating dynamic APIs like **CoinGecko** & **NASA APOD**  
 🎨 On the side, I explore graphic design to breathe aesthetic life into digital spaces  
 🌱 Constantly evolving with **JavaScript**, **React**, and **Material UI**  
@@ -15,11 +15,9 @@
 
 ## 🌐 Socials:
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Nikhil%20Bogoju)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nikhil%20Nikhil)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_nikhil)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NIKHIL%20BOGOJU)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhil_bogoju)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilbogoju/)
 
 ---
 
@@ -58,10 +56,6 @@
 
 ---
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=nikhil_bogoju)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -73,10 +67,6 @@
 
 ---
 
-## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=BogojuNikhil&icon=5&color=1)](https://visitcount.itsvg.in)
 
